@@ -38,8 +38,8 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 ```py
 '''Program to solve a matrix using LU decomposition.
-Developed by:Ezhil sree J
-RegisterNumber: 23012968
+Developed by: M THEJESWARAN
+RegisterNumber: 212223240168
 '''
 
 # To print X matrix (solution to the equations)
