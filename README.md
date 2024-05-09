@@ -53,8 +53,9 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](image.png)
-![lu decomposition](image-1.png)
+![Screenshot (32)](https://github.com/TEJA19092005/LU-Decomposition/assets/164043042/2cc6f57f-98ea-435f-a095-800a9d03823f)
+
+![Screenshot (33)](https://github.com/TEJA19092005/LU-Decomposition/assets/164043042/46114881-962d-40be-9260-728ad3f80365)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
